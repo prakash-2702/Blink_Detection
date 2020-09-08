@@ -14,9 +14,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 
-|![]()|![]()|![Visualizing the 68 facial landmark coordinates](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/HOG.PNG)|
-|:---:|:---:|:---:|
-||||  
+|![Visualizing the 68 facial landmark coordinates](https://github.com/prakash-2702/Facial_Landmarks_Detection/blob/master/assets/HOG.PNG)|![The 6 facial landmarks associated with the eye.]
+|:---:|:---:|
+|Visualizing the 68 facial landmark coordinates|The 6 facial landmarks associated with the eye|  
 * Facial landmarks are used to localize and represent salient regions of the face, such as:
   1. Eyes
   2. Eyebrows
